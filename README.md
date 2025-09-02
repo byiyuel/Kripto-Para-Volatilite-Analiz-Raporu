@@ -2,8 +2,6 @@
 # KRİPTO PARA VOLATİLİTE ANALİZİ RAPORU
 Hazırlayan: Baran Yılmaz Yücel
 Tarih: 02/09/2025
-Üniversite: Bursa Uludağ Üniversitesi
-Bölüm: Ekonometri
 
 ## 1. PROJE AMAÇI
 Bu çalışmada Bitcoin, Ethereum, BNB, Cardano ve Solana cryptocurrency'lerinin 
